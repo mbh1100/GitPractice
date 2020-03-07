@@ -2,7 +2,12 @@ package app;
 
 public class App {
     public static void main(String[] args) throws Exception {
-        System.out.println("Woah there Java");
+      System.out.println("Woah there Java");
+    }
+
+    public void shameThor() {
+        System.out.println("Shame, shame, shame, shame");
+
     }
 
     public void help() {
