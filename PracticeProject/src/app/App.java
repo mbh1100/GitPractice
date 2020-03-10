@@ -5,14 +5,13 @@ public class App {
       System.out.println("Woah there Java");
     }
 
-    public void shameThor() {
-        System.out.println("Shame, shame, shame, shame");
-
+    public void doNotShameThor() {
+        System.out.println("Yay Thor!!!!!");
     }
 
     public void help() {
       System.out.println("This is a help message.\n");
-      for (int i = 0; i < 22; i++) {
+      for (int i = 0; i < 10; i++) {
         System.out.println("Help " + i + " message.\n");
       }
     }
