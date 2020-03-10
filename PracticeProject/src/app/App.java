@@ -6,8 +6,10 @@ public class App {
     }
 
     public void shameThor() {
-        System.out.println("Shame, shame, shame, shame");
-
+        System.out.println("Shame x1,000");
+        for (int i = 0; i < 1000; i++) {
+          System.out.println("Shame!");
+        }
     }
 
     public void help() {
