@@ -2,14 +2,21 @@ package app;
 
 public class App {
     public static void main(String[] args) throws Exception {
+      App app = new App();
       System.out.println("Woah there Java");
+      app.help();
+      app.shameOnYou();
     }
 
-    public void doNotShameThor() {
-        System.out.println("Yay Thor!!!!!");
-    }
-    
     public void uselessFunctionNum3() {
+      return;
+    } 
+
+    public void shameOnYou() {
+        System.out.println("Shame x3");
+    }
+
+    public void uselessFunction1(int what) {
       return;
     }
 
