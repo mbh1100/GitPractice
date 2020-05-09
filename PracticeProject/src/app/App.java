@@ -8,6 +8,10 @@ public class App {
     public void doNotShameThor() {
         System.out.println("Yay Thor!!!!!");
     }
+    
+    public void uselessFunctionNum3() {
+      return;
+    }
 
     public void help() {
       System.out.println("This is a help message.\n");
