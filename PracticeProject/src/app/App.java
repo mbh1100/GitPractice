@@ -20,6 +20,11 @@ public class App {
       return;
     }
 
+    public void uselessFunctionX()
+    {
+      return;
+    }
+
     public void help() {
       System.out.println("This is a help message.\n");
       for (int i = 0; i < 10; i++) {
